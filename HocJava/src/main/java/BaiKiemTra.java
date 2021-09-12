@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class BaiKiemTra {
+class TinhChuVi {
     public static void main(String[] args) {
         double r;
         final double PI = 3.14519;
